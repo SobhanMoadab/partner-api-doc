@@ -1,4 +1,4 @@
-site_name: EarthMiles API Documentation
+site_name: Earth Miles
 site_description: OAuth and Partner API documentation
 theme:
   name: material

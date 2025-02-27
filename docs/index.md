@@ -1,4 +1,4 @@
-# Your API Documentation
+# Earth Miles API Documentation
 
 Welcome to the official documentation for the Partner API and OAuth integration. This documentation is intended for developers who want to integrate with our platform.
 
